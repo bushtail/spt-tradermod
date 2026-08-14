@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="UnityEngine.Modules" Version="2022.3.43" IncludeAssets="compile" />
+        <Reference Include="..\..\..\EscapeFromTarkov_Data\Managed\*.dll">
+            <Private>false</Private>
+        </Reference>
+    </ItemGroup>
+
+</Project>

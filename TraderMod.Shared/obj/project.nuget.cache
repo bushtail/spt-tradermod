@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yu+DF7xgdRs=",
+  "success": true,
+  "projectFilePath": "F:\\tarkov_dev\\SPT_4.1\\MOD_DEV\\spt-tradermod\\TraderMod.Shared\\TraderMod.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enosich\\.nuget\\packages\\unityengine.modules\\2022.3.43\\unityengine.modules.2022.3.43.nupkg.sha512"
+  ],
+  "logs": []
+}
