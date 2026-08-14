@@ -7,3 +7,8 @@
 BundleResources/Equi/*.png
 
 BundleResources/ModifiedTextures/*.png
+
+TraderMod.Client/bin/
+TraderMod.Client/obj/
+TraderMod.Shared/bin/
+TraderMod.Shared/obj/
